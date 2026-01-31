@@ -1,0 +1,1 @@
+it could not be deployed with github but this is the google studio link https://aistudio.google.com/apps/drive/1MXyXuD3vGqB8-yWETYrrEnxW4QlvFDpt?showPreview=true&showAssistant=true&project=gen-lang-client-0285453410 
