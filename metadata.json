@@ -1,0 +1,7 @@
+{
+  "name": "KAVACH.AI: Intelligent Protection",
+  "description": "Intelligent Protection Against Digital Fraud. An enterprise-grade platform for AI-generated voice detection, agentic honeypot scam mitigation, and proactive threat analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
